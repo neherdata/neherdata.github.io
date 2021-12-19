@@ -2,3 +2,5 @@ remote_theme: b2a3e8/jekyll-theme-console
 title: Neher & Co. Data Systems
 timezone: America/New_York
 encoding: utf-8
+style: dark
+listen_for_clients_preferred_style: true
