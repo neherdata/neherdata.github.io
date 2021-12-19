@@ -1,8 +1,14 @@
 remote_theme: b2a3e8/jekyll-theme-console
 title: Neher & Co. Data Systems
+description: "Data science and cybersecurity for the masses."
 timezone: America/New_York
 encoding: utf-8
 style: dark
 listen_for_clients_preferred_style: true
+url: "https://www.neherdata.io/"
 
-footer: 'Find us on <a href="https://github.com/neherdata">GitHub</a>'
+header_pages:
+  - index.md
+  - contact.md
+
+footer: '© Tyler M. Neher 2021 && Find us on <a href="https://github.com/neherdata">GitHub</a>'
