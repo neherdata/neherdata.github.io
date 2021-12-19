@@ -1,5 +1,5 @@
 ## Neher & Co. Data Systems
-Data science and cybersecurity consulting for the masses!
+Data science and cybersecurity for the masses!
 
 
 ## Connect with me!
@@ -8,4 +8,4 @@ Data science and cybersecurity consulting for the masses!
 - [Medium](https://medium.com/@tylermneher)
 
 
-## Copyright Tyler M. Neher 2021
+## © Tyler M. Neher 2021
