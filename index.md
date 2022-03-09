@@ -1,5 +1,5 @@
 ---
-title: /
+title: // NeherData.io //
 layout: home
 permalink: /
 ---
