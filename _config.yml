@@ -9,10 +9,10 @@ description: "Data science and cybersecurity for the masses."
 style: dark
 listen_for_clients_preferred_style: true
 
-url: "https://www.neherdata.io/"
+url: "https://gh.neherdata.com/"
 
 header_pages:
   - index.md
   - contact.md
 
-footer: 'Tyler M. Neher © 2022 // Find us on <a href="https://github.com/neherdata">GitHub!</a>'
+footer: 'Neher Data Systems © 2022 // Find us on <a href="https://github.com/neherdata">GitHub!</a>'
