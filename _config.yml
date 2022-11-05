@@ -4,7 +4,7 @@ plugins:
 timezone: America/New_York
 encoding: utf-8
 
-title: Neher Data Systems GitHub
+title: Neher Data Systems on GitHub
 description: "Tech support after dark."
 
 
@@ -15,6 +15,6 @@ url: "https://neherdata.xyz/"
 
 header_pages:
   - index.md
-  - contact.md
+
 
 footer: 'Neher Data Systems © 2022 // Find us on <a href="https://github.com/neherdata">GitHub!</a>'
