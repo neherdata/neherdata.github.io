@@ -1,10 +1,10 @@
 ---
-title: // NeherData.io //
+title: // Neher Data Systems //
 layout: home
 permalink: /
 ---
 
-## Neher & Co. Data Systems
+## Neher Data Systems
 
 <i>Data science and cybersecurity for the masses!</i>
 
