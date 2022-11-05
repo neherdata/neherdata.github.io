@@ -1,2 +1,2 @@
 # neherdata.github.io
-Neher &amp; Co. Data Systems Homepage
+Neher Data Systems on GitHub!
