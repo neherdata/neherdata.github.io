@@ -1,11 +1,9 @@
 ---
-title: // Neher Data Systems //
+title: Neher Data Systems on GitHub
 layout: home
 permalink: /
 ---
 
-## Neher Data Systems
+# Neher Data Systems on GitHub
 
-<i>Data science and cybersecurity for the masses!</i>
-
-<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt USD-446652154 ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.  -->
+<i>Tech support after dark!</i>
