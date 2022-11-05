@@ -2,7 +2,6 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ![Logo](https://github.com/neherdata.png)
 
