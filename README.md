@@ -9,7 +9,7 @@
 
 [Website](http://www.neherdata.com) • [Email Us](mailto:tyler@neherdata.com?cc=joe@neherdata.com&subject=Contact%20Us%20-%20Found%20on%20GitHub) • [Twitter](https://twitter.com/neherdata) • [Facebook](https://www.facebook.com/neherdata) • [Instagram](https://instagram.com/neherdata) -->
 
-<!DOCTYPE html>
+
 <html lang="en-US">
 
 <head>
@@ -37,6 +37,7 @@
         href="https://www.facebook.com/neherdata">Facebook</a> • <a href="https://instagram.com/neherdata">Instagram</a>
     </p>
 
+[![Deploy Jekyll on GitHub Pages](https://github.com/neherdata/neherdata.github.io/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/neherdata/neherdata.github.io/actions/workflows/jekyll-gh-pages.yml)
 
 
 
