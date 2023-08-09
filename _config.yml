@@ -7,6 +7,7 @@ encoding: utf-8
 title: Neher Data Systems on GitHub
 description: "Tech support after dark."
 
+include: [".well-known"]
 
 style: dark
 listen_for_clients_preferred_style: true
@@ -17,4 +18,4 @@ header_pages:
   - index.md
 
 
-footer: 'Neher Data Systems © 2022 // Find us on <a href="https://github.com/neherdata">GitHub!</a>'
+footer: 'Neher Data Systems © 2023 // Find us on <a href="https://github.com/neherdata">GitHub!</a>'
